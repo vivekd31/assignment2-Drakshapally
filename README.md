@@ -58,6 +58,8 @@ The famous monumental Ellora Caves were built between the 5th and 10th centuries
 
 ***
 
+# Favourite quotes
+
 >"Some stories have to be written because no one would believe the absurdity of it all."
 *Shannon L. Alder*
 
