@@ -43,7 +43,7 @@ Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and
 | --- | ------- | ----- |
 | Hyderabad | 3 | 5000 |
 
-![mecca masjid](Images/meccamasjid.jpg)
+![mecca masjid](Images/mecca masjid.jpg)
 ## 3.The Beaches Of Goa:
 Long known within India as the "go-to" destination for those seeking a great beach holiday, Goa's beautiful western coastline, overlooking the Arabian Sea, has only recently been discovered by tourists from overseas.
 
@@ -51,7 +51,7 @@ Long known within India as the "go-to" destination for those seeking a great bea
 | --- | ------- | ----- |
 | Goa | 8 | 4000 |
 
-![goa beach](Images/goabeach.jpg)
+![goa beach](Images/goa beach.jpg)
 ## 4.The Ellora Caves:
 The famous monumental Ellora Caves were built between the 5th and 10th centuries by Buddhist, Jain, and Hindu monks, and make for an excellent excursion from Mumbai, some 300 kilometers to the west.
 
@@ -59,7 +59,7 @@ The famous monumental Ellora Caves were built between the 5th and 10th centuries
 | --- | ------- | ----- |
 | Aurangabad | 4 | 2000 |
 
-![ellora caves](Images/elloracaves.jpg)
+![ellora caves](Images/ellora caves.jpg)
 
 ***
 
