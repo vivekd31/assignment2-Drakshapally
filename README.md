@@ -55,3 +55,11 @@ The famous monumental Ellora Caves were built between the 5th and 10th centuries
 | Location | Number of Hours | Amount to Spent |
 | --- | ------- | ----- |
 | Aurangabad | 4 | 2000 |
+
+***
+
+>"Some stories have to be written because no one would believe the absurdity of it all."
+*Shannon L. Alder*
+
+>"A friend is someone who knows all about you and still loves you.”
+*Elbert Hubbard*
