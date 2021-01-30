@@ -31,7 +31,27 @@ Gobi Manchurain is an indian chinese fried **cauliflower dish**. The word Manchu
 ## 1.The Holy City Of varanasi:
 A major pilgrimage center for Hindus, the holy city of Varanasi has long been associated with the mighty Ganges River, one of the faith's most important religious symbols. Dating back to the 8th century BC, Varanasi is one of the oldest still inhabited cities in the world.
 
-| Location | Number of Hours  | Amount to Spent |
+| Location | Number of Hours | Amount to Spent |
 | --- | ------- | ----- |
 | Varanasi | 6 | 7000 |
 
+## 2.Mecca Masjid:
+Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. Large enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.
+
+| Location | Number of Hours | Amount to spent |
+| --- | ------- | ----- |
+| Hyderabad | 3 | 5000 |
+
+## 3.The Beaches Of Goa:
+Long known within India as the "go-to" destination for those seeking a great beach holiday, Goa's beautiful western coastline, overlooking the Arabian Sea, has only recently been discovered by tourists from overseas.
+
+| Location | Number of Hours | Amount to Spent |
+| --- | ------- | ----- |
+| Goa | 8 | 4000 |
+
+## 4.The Ellora Caves:
+The famous monumental Ellora Caves were built between the 5th and 10th centuries by Buddhist, Jain, and Hindu monks, and make for an excellent excursion from Mumbai, some 300 kilometers to the west.
+
+| Location | Number of Hours | Amount to Spent |
+| --- | ------- | ----- |
+| Aurangabad | 4 | 2000 |
