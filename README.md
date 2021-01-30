@@ -21,5 +21,3 @@ Gobi Manchurain is an indian chinese fried **cauliflower dish**. The word Manchu
 7. At billing section the walmart employees will scan the barcode and they will say the amount which we have to pay
 *  Pay the bill using card or cash 
 *  After completion of billing again book the cab by using tapride app
-
- [AboutMe](https://github.com/vivekd31/assignment2-Drakshapally/blob/main/AboutMe.md).
