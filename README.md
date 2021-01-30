@@ -35,6 +35,7 @@ A major pilgrimage center for Hindus, the holy city of Varanasi has long been as
 | --- | ------- | ----- |
 | Varanasi | 6 | 7000 |
 
+![varanasi](Images/varanasi.jpeg)
 ## 2.Mecca Masjid:
 Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. Large enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.
 
@@ -42,6 +43,7 @@ Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and
 | --- | ------- | ----- |
 | Hyderabad | 3 | 5000 |
 
+![meccamasjid](Images/meccamasjid.jpg)
 ## 3.The Beaches Of Goa:
 Long known within India as the "go-to" destination for those seeking a great beach holiday, Goa's beautiful western coastline, overlooking the Arabian Sea, has only recently been discovered by tourists from overseas.
 
@@ -49,12 +51,15 @@ Long known within India as the "go-to" destination for those seeking a great bea
 | --- | ------- | ----- |
 | Goa | 8 | 4000 |
 
+![goabeach](Images/goabeach.jpg)
 ## 4.The Ellora Caves:
 The famous monumental Ellora Caves were built between the 5th and 10th centuries by Buddhist, Jain, and Hindu monks, and make for an excellent excursion from Mumbai, some 300 kilometers to the west.
 
 | Location | Number of Hours | Amount to Spent |
 | --- | ------- | ----- |
 | Aurangabad | 4 | 2000 |
+
+![elloracaves](Images/elloracaves.jpg)
 
 ***
 
