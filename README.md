@@ -31,7 +31,7 @@ Gobi Manchurain is an indian chinese fried **cauliflower dish**. The word Manchu
 ## 1.The Holy City Of varanasi:
 A major pilgrimage center for Hindus, the holy city of Varanasi has long been associated with the mighty Ganges River, one of the faith's most important religious symbols. Dating back to the 8th century BC, Varanasi is one of the oldest still inhabited cities in the world.
 
-| Location | | Number of Hours | |Amount to Spent|
-| --- | |-------| |-----|
-|Varanasi| |6| |7000|
+| Location | Number of Hours  | Amount to Spent |
+| --- | ------- | ----- |
+| Varanasi | 6 | 7000 |
 
